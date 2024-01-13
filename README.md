@@ -1,5 +1,5 @@
 
-[live][https://gallery-animation-css.netlify.app/]
+[live](https://gallery-animation-css.netlify.app/)
 
 # Getting Started with Create React App
 
